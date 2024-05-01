@@ -1,3 +1,4 @@
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/jtayped/jtayped/assets/87146558/b87b4c48-10d8-4d5f-b648-0a7cdd749ab5)
 # 🌚 Joel Taylor
 Most people my age play video games, binge Netflix series, or spend ungodly amounts of time on social media. I for a change spend wayyy too much time programming. Ever since I made my first project in Python when I was 14 years old, I never stopped!
 From creating a viral Spotify website to automating the most tedious tasks, I have been around the block a fair bit for my age. But much more is to come!
