@@ -4,7 +4,7 @@
 
 # 🌚 Joel Taylor
 Most people my age play video games, binge Netflix series, or spend ungodly amounts of time on social media. I for a change spend wayyy too much time programming. Ever since I made my first project in Python when I was 14 years old, I never stopped!
-From creating a viral Spotify website to automating the most tedious tasks, I have been around the block a fair bit for my age. But much more is to come!
+From creating a semi-viral Spotify website to automating the most tedious tasks, I have been around the block a fair bit for my age. But much more is to come!
 
 ## 🛠🧰 Skills and Technologies
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
