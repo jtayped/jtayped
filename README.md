@@ -21,4 +21,6 @@ From creating a semi-viral Spotify website to automating the most tedious tasks,
 <br />
 
 ## 📊📈 Statistics
-[![My Stats](https://github-readme-stats.vercel.app/api?username=jtayped&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jtayped&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jtayped&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jtayped&layout=compact&theme=github_dark)
